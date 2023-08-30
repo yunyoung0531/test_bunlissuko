@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.902dcd69.css",
+    "main.js": "/static/js/main.96d29f23.js",
+    "static/js/787.7aac8ca0.chunk.js": "/static/js/787.7aac8ca0.chunk.js",
+    "static/media/종이팩쓰레기.png": "/static/media/종이팩쓰레기.d1462184e4b83acb2fe3.png",
+    "static/media/쑥.png": "/static/media/쑥.f0df8588a467958dede9.png",
+    "static/media/종이박스쓰레기.png": "/static/media/종이박스쓰레기.af804308d2ccbfc9af74.png",
+    "static/media/과자봉지쓰레기.png": "/static/media/과자봉지쓰레기.17e68468f3a1320e0e05.png",
+    "static/media/폐건전지쓰레기.png": "/static/media/폐건전지쓰레기.5ecf02e2cc5c3a74866e.png",
+    "static/media/플라스틱빨대쓰레기.png": "/static/media/플라스틱빨대쓰레기.5ede1b146441e1edc4cb.png",
+    "static/media/스프레이용기쓰레기.png": "/static/media/스프레이용기쓰레기.08130ce06bc284336c9d.png",
+    "static/media/캔쓰레기.png": "/static/media/캔쓰레기.0c031ec2cf54d55aade4.png",
+    "static/media/스티로폼쓰레기.png": "/static/media/스티로폼쓰레기.e3d87af86c5b9b12345a.png",
+    "static/media/달걀껍질쓰레기.png": "/static/media/달걀껍질쓰레기.c0fe9c7c78d4cd4befe9.png",
+    "static/media/유리병쓰레기.png": "/static/media/유리병쓰레기.de1244c30b648f937980.png",
+    "static/media/깨진유리쓰레기.png": "/static/media/깨진유리쓰레기.c7e7b7000443c07ffd11.png",
+    "static/media/비닐봉지쓰레기.png": "/static/media/비닐봉지쓰레기.20a2d37cf993db0a530e.png",
+    "static/media/게임전체배경.png": "/static/media/게임전체배경.887f0cb00919634f377a.png",
+    "static/media/색깔플라스틱병쓰레기.png": "/static/media/색깔플라스틱병쓰레기.15e052639079622b08c5.png",
+    "static/media/플라스틱병쓰레기.png": "/static/media/플라스틱병쓰레기.6ba1f34b55b3c23d7363.png",
+    "static/media/병뚜껑쓰레기.png": "/static/media/병뚜껑쓰레기.9f8792c16b31a8945185.png",
+    "index.html": "/index.html",
+    "main.902dcd69.css.map": "/static/css/main.902dcd69.css.map",
+    "main.96d29f23.js.map": "/static/js/main.96d29f23.js.map",
+    "787.7aac8ca0.chunk.js.map": "/static/js/787.7aac8ca0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.902dcd69.css",
+    "static/js/main.96d29f23.js"
+  ]
+}
