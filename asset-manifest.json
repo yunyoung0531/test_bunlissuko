@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.902dcd69.css",
-    "main.js": "/static/js/main.96d29f23.js",
+    "main.css": "/static/css/main.11ea741a.css",
+    "main.js": "/static/js/main.766bd55d.js",
     "static/js/787.7aac8ca0.chunk.js": "/static/js/787.7aac8ca0.chunk.js",
     "static/media/종이팩쓰레기.png": "/static/media/종이팩쓰레기.d1462184e4b83acb2fe3.png",
     "static/media/쑥.png": "/static/media/쑥.f0df8588a467958dede9.png",
@@ -21,12 +21,12 @@
     "static/media/플라스틱병쓰레기.png": "/static/media/플라스틱병쓰레기.6ba1f34b55b3c23d7363.png",
     "static/media/병뚜껑쓰레기.png": "/static/media/병뚜껑쓰레기.9f8792c16b31a8945185.png",
     "index.html": "/index.html",
-    "main.902dcd69.css.map": "/static/css/main.902dcd69.css.map",
-    "main.96d29f23.js.map": "/static/js/main.96d29f23.js.map",
+    "main.11ea741a.css.map": "/static/css/main.11ea741a.css.map",
+    "main.766bd55d.js.map": "/static/js/main.766bd55d.js.map",
     "787.7aac8ca0.chunk.js.map": "/static/js/787.7aac8ca0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.902dcd69.css",
-    "static/js/main.96d29f23.js"
+    "static/css/main.11ea741a.css",
+    "static/js/main.766bd55d.js"
   ]
 }
